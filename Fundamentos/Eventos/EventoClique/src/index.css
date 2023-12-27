@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 20px;
+}
+
+button {
+  margin: 50px;
+  background-color: aqua;
+  font-size: 50px;
+  
+}
